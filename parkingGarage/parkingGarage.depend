@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1730012125 source:e:\applications\zz programming\c++\toll parking\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1730850415 source:e:\applications\zz programming\c++\parkinggarage\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
